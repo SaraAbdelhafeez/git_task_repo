@@ -5,3 +5,5 @@ line 2 second commit
 first line in branch task1
 
 line before merge in local repo
+
+change in remote repo
